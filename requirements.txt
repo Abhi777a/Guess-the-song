@@ -1,6 +1,6 @@
 streamlit
 # streamlit_app.py
-import streamlit as st
+import streamlit as st;
 import random
 import os
 from pathlib import Path
